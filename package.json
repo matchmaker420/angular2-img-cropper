@@ -1,10 +1,10 @@
 {
-  "name": "ng2-img-cropper",
+  "name": "ng2-img-cropper-mm420",
   "version": "0.8.6",
   "description": "Angular2 Image Cropper Component",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cstefanache/angular2-img-cropper.git"
+    "url": "git+https://github.com/matchmaker420/angular2-img-cropper-mm420.git"
   },
   "scripts": {
     "tsc": "tsc",

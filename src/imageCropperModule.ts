@@ -5,8 +5,12 @@ import { ImageCropperComponent } from './imageCropperComponent';
 
 @NgModule({
     imports: [CommonModule],
-    declarations: [ImageCropperComponent],
-    exports: [ImageCropperComponent]
+    declarations: [
+        // ImageCropperComponent
+    ],
+    exports: [
+        // ImageCropperComponent
+    ]
 })
 export class ImageCropperModule {
 }
